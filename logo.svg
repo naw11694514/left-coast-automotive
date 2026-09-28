@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="title">
+<title>Left Coast Automotive compass logo</title>
+<rect width="120" height="120" rx="14" fill="#111315"/>
+<circle cx="60" cy="60" r="41" fill="none" stroke="#c99443" stroke-width="4"/>
+<path d="M60 10 L68 52 L60 60 L52 52 Z" fill="#ddb66c"/>
+<path d="M110 60 L68 68 L60 60 L68 52 Z" fill="#8b8f91"/>
+<path d="M60 110 L52 68 L60 60 L68 68 Z" fill="#c99443"/>
+<path d="M10 60 L52 52 L60 60 L52 68 Z" fill="#5e6366"/>
+<circle cx="60" cy="60" r="8" fill="#111315" stroke="#ddb66c" stroke-width="3"/>
+</svg>
